@@ -4,7 +4,9 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>13/4/2020 – Present</td>
-  <td><strong>Kleemann Hellas S.A</strong>, ERP Software Engineer</td>
+  <td><strong>Kleemann Hellas S.A</strong>, ERP Software Engineer</td> <br>
+  >- Web applications Full-Stack development
+  >- SAP Crystal Reports development
 </tr>
 <tr>
 </tr>
