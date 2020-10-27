@@ -48,7 +48,7 @@
 ## <i class="fa fa-feather-alt"></i> Qualifications
 <table class="table table-hover">
 <tr>
- <td class='col-md-2'>Programming</td>**
+ <td class='col-md-2'>Programming</td>
 </tr>
 <tr>
   <td class='col-md-2'>Web Design</td>
