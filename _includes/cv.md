@@ -9,13 +9,13 @@
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>June 2018 - Sept 2018</td>
+  <td class='col-md-3'>20/2/2019 – 19/2/2020</td>
   <td><strong>Aghios Panteleimon - Chronic disease treatment clinic of Kilkis</strong>, IT Helpdesk Engineer</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2017 - Oct 2017</td>
+  <td class='col-md-3'>1/10/2016 – 30/4/2017</td>
   <td><strong>BITLOGIC - Applications of Industrial Informatics & Automation</strong>, Automation Engineer</td>
 </tr>
 <tr>
@@ -23,7 +23,7 @@
 </table>
 
 
-## <i class="fas fa-feather-alt"></i> Education
+## <i class="fa fa-feather-alt"></i> Education
 
 <table class="table table-hover">
   <tr>
@@ -45,10 +45,10 @@
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Qualifications
+## <i class="fa fa-feather-alt"></i> Qualifications
 <table class="table table-hover">
 <tr>
- >** <td class='col-md-2'>Programming</td>**
+ <td class='col-md-2'>Programming</td>**
 </tr>
 <tr>
   <td class='col-md-2'>Web Design</td>
